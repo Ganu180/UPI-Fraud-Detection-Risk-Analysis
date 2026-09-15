@@ -646,4 +646,13 @@ Aspiring Data Analyst / Data Scientist
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Try the deployed application:**  
+https://upi-fraud-risk-analysis.streamlit.app/
+
+The Streamlit dashboard communicates with a FastAPI backend deployed on Render to generate fraud probabilities, anomaly scores, behavioral risk signals, and an overall transaction risk score.
+
+> The backend uses a free cloud instance, so the first request after inactivity may take a short time while the service wakes up.
+
 ⭐ If you found this project useful, consider starring the repository.
