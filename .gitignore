@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated datasets
+data/upi_fraud_transactions_cleaned.csv
+data/upi_fraud_transactions_features.csv
+data/upi_fraud_risk_scored.csv
+
+# Logs
+*.log
